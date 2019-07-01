@@ -1,1 +1,3 @@
 Que hongo esoooos vatos locos !!
+
+$ git config diff.word.textconv strings
